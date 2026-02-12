@@ -53,11 +53,13 @@ Before running the project, ensure you have:
 1. Clone the repository
 2.git clone <repository-url>
 3. npm install
-4. npx playwright install
+4. npm install -D @playwright/test
+5. npx playwright install
 
 
 ## Run test
 1. npx playwright test
 2. npx playwright test --headed
+
 
 
