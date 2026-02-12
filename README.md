@@ -57,6 +57,7 @@ Before running the project, ensure you have:
 
 
 ## Run test
-npx playwright test
-npx playwright test --headed
+1. npx playwright test
+2. npx playwright test --headed
+
 
